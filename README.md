@@ -4,7 +4,6 @@ Installation
 
 Your first step is to clone this repository:
 ```
-https://github.com/MEGAMMS/dotfiles
 git clone https://github.com/MEGAMMS/dotfiles ~/.dotfiles
 ```
 ### Manual Installation
