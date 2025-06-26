@@ -1,0 +1,10 @@
+# theme = "catppuccin-mocha"
+theme = night-owl
+window-decoration = false
+shell-integration = detect
+font-family = "MesloLGS Nerd Font Mono"
+font-size = 13
+window-padding-color = extend
+confirm-close-surface = false
+maximize = true
+background-opacity = 0.4
